@@ -45,4 +45,5 @@
 0.0.0.0 ad.bharatstudent.com
 0.0.0.0 www.advombat.ru
 0.0.0.0 view.atdmt.com.26877.9201.302br.net
-0.0.0.0 res.imtt.qq.com/
+0.0.0.0 res.imtt.qq.com
+0.0.0.0 gss0.bdstatic.com
